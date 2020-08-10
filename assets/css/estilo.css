@@ -1,0 +1,37 @@
+.container-fluid{
+    background-color: black;
+    height: auto;
+    color: white;
+}
+.col{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.logo{
+    padding-top: 20px;
+}
+section{
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px black;
+}
+.menu{
+    background-color: rgb(36, 94, 252);
+    color: white;
+    text-align: center;
+    padding: 3px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.opcoes{
+    text-align: center;
+    padding: 50px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}

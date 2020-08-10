@@ -1,0 +1,24 @@
+.container-fluid{
+    background-color: black;
+    height: auto;
+}
+.col{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    padding-top: 10px;
+}
+form{
+    padding-top: 30px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
